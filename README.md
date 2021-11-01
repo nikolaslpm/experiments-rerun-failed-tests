@@ -1,2 +1,2 @@
 # experiments-rerun-failed-tests
-Experiments on different test frameworks (mainly Junit) to rerun failed tests
+Experiments on different test extensions for Junit with Maven to rerun failed tests.
